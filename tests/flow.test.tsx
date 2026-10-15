@@ -43,7 +43,7 @@ test('complete UI flow: quick double tap, back, refresh, sorting, result, and re
     assert.match(document.querySelector('.quiz-title')!.textContent!,/time for a break/);
     await answer(0);await answer(2);await answer(2);
     assert.ok(document.querySelector('.sorting-screen'));
-    await act(async()=>{await new Promise(resolve=>setTimeout(resolve,2750));});
+    await act(async()=>{await new Promise(resolve=>setTimeout(resolve,4550));});
     assert.match(document.querySelector('.result-reveal h1')!.textContent!,/Seongsu/);
     assert.equal(document.querySelectorAll('.spot-card').length,3);
     assert.equal(document.querySelectorAll('.official-links a[target="_blank"]').length,2);

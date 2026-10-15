@@ -20,11 +20,11 @@ export const characters = {
 } as const;
 export type Expression = keyof typeof characters;
 export const quizExpressions: Expression[] = ['thinking', 'confused', 'thinking', 'confused', 'thinking'];
-export const sortingSteps: {expression: Expression; text: string}[] = [
-  { expression: 'thinking', text: 'The Magical Gat is reading your travel soul…' },
-  { expression: 'confused', text: 'Hmm… interesting choices!' },
-  { expression: 'suspicious', text: 'I know exactly where you belong…' },
-  { expression: 'confident', text: 'Your Seoul destination is…' },
+export const sortingSteps: {expression: Expression; text: string; durationMs: number}[] = [
+  { expression: 'thinking', text: 'The Magical Gat is reading your travel soul…', durationMs: 1500 },
+  { expression: 'confused', text: 'Hmm… interesting choices!', durationMs: 1000 },
+  { expression: 'suspicious', text: 'I know exactly where you belong…', durationMs: 1000 },
+  { expression: 'confident', text: 'Your Seoul destination is…', durationMs: 1000 },
 ];
 
 // TODO: Add the official supplied IGB logo and confirmed lecture URL before booth launch.

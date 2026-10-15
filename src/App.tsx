@@ -66,8 +66,13 @@ function Sorting({ onComplete }: { onComplete: () => void }) {
   const [step, setStep] = useState(0);
   const [reduced] = useState(() => window.matchMedia('(prefers-reduced-motion: reduce)').matches);
   useEffect(() => {
-    const timers = sortingSteps.slice(1).map((_,i) => window.setTimeout(() => setStep(i+1), (i+1)*650));
-    const finish = window.setTimeout(onComplete, reduced ? 400 : 2700);
+    let elapsed = sortingSteps[0].durationMs;
+    const timers = sortingSteps.slice(1).map((item,i) => {
+      const timer = window.setTimeout(() => setStep(i+1), elapsed);
+      elapsed += item.durationMs;
+      return timer;
+    });
+    const finish = window.setTimeout(onComplete, reduced ? 400 : elapsed);
     return () => {timers.forEach(clearTimeout); clearTimeout(finish);};
   }, [onComplete, reduced]);
   return <section className="sorting-screen page-enter" aria-live="polite" aria-busy="true"><div className="sorting-art"><div className="sorting-ring"/><div className="sorting-ring ring-two"/><Cloud className="sorting-cloud"/><Character expression={sortingSteps[step].expression} className="sorting-character float"/><Sparkle className="sorting-star"/></div><h1 key={step}>{sortingSteps[step].text}</h1><div className="sorting-dots" aria-hidden="true">{sortingSteps.map((_,i)=><span key={i} className={i<=step?'active':''}/>)}</div></section>;
