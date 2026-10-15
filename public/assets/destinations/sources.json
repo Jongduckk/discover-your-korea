@@ -1,0 +1,1535 @@
+[
+  {
+    "spot": "Gyeongbokgung Palace",
+    "retrievedOn": "2026-10-16",
+    "src": "./assets/destinations/gyeongbokgung.webp",
+    "smallSrc": "./assets/destinations/gyeongbokgung-small.webp",
+    "width": 960,
+    "height": 540,
+    "alt": "Geunjeongjeon Hall and its courtyard at Gyeongbokgung Palace",
+    "caption": "",
+    "position": "50% 55%",
+    "title": "Front view of the Imperial Throne Hall Geunjeongjeon at Gyeongbokgung Palace with blue sky in Seoul.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_view_of_the_Imperial_Throne_Hall_Geunjeongjeon_at_Gyeongbokgung_Palace_with_blue_sky_in_Seoul.jpg",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; cropped to fit the card when displayed.",
+    "commonsPageId": 150610275,
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Front_view_of_the_Imperial_Throne_Hall_Geunjeongjeon_at_Gyeongbokgung_Palace_with_blue_sky_in_Seoul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Front_view_of_the_Imperial_Throne_Hall_Geunjeongjeon_at_Gyeongbokgung_Palace_with_blue_sky_in_Seoul.jpg/1280px-Front_view_of_the_Imperial_Throne_Hall_Geunjeongjeon_at_Gyeongbokgung_Palace_with_blue_sky_in_Seoul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalSha1": "6a3d70f74587f9ffa3f6a4ae8177e30f89cfa4a5",
+    "originalTimestamp": "2024-07-22T02:45:27Z",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2024-07-22 02:45:27",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Front view of the Imperial Throne Hall Geunjeongjeon at Gyeongbokgung Palace with blue sky in Seoul",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Geunjeongjeon|One-point perspective|Self-published work|Featured pictures of buildings|Featured pictures of palaces|Blue sky in South Korea|Featured pictures of Seoul|Pavements in South Korea|Symmetry impressions of buildings|Files with coordinates missing SDC location of creation|Featured pictures by Basile Morin|Photographs by Basile Morin|Front views of buildings|Vertical symmetry impressions",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "quality|featured",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "37.577808",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "126.977025",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Front view of the Imperial Throne Hall Geunjeongjeon, at <a href=\"https://en.wikipedia.org/wiki/Gyeongbokgung\" class=\"extiw\" title=\"en:Gyeongbokgung\">Gyeongbokgung</a> Palace, with blue sky in <a href=\"https://en.wikipedia.org/wiki/Seoul\" class=\"extiw\" title=\"en:Seoul\">Seoul</a>, <a href=\"https://en.wikipedia.org/wiki/South_Korea\" class=\"extiw\" title=\"en:South Korea\">South Korea</a>.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2024-06-05 09:09:51",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Basile_Morin\" title=\"User:Basile Morin\">Basile Morin</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "spot": "Bukchon Hanok Village",
+    "retrievedOn": "2026-10-16",
+    "src": "./assets/destinations/bukchon.webp",
+    "smallSrc": "./assets/destinations/bukchon-small.webp",
+    "width": 960,
+    "height": 640,
+    "alt": "Traditional hanok rooftops lining Bukchon-ro 11-gil at blue hour",
+    "caption": "",
+    "position": "50% 52%",
+    "title": "Bukchon-ro 11-gil street with hanok houses at blue hour in Bukchon Hanok Village Seoul.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; cropped to fit the card when displayed.",
+    "commonsPageId": 155519606,
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg/1280px-Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalSha1": "69e7fda8f3c8e6a5d897a40db4e3a3ad19462437",
+    "originalTimestamp": "2024-11-22T03:52:08Z",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2024-11-22 03:52:08",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Bukchon-ro 11-gil street with hanok houses at blue hour in Bukchon Hanok Village Seoul",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Bukchon Hanok Village|Vanishing point|One-point perspective|Self-published work|Featured pictures of buildings|Urban sunsets|Featured pictures of Seoul|Featured pictures of sunsets|Long exposure photographs of South Korea|Brick walls in South Korea|Files with coordinates missing SDC location of creation|Featured pictures by Basile Morin|Perspective views of streets|Photographs by Basile Morin|Exposure time 13 sec|Published photographs by Basile Morin",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "quality|featured",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "37.582587",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "126.983825",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Bukchon-ro 11-gil street lined with traditional <a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/Hanok\" title=\"en:Hanok\" class=\"extiw\">hanok</a> houses showing <a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/Korean%20architecture\" title=\"en:Korean architecture\" class=\"extiw\">Korean architecture</a>, seen from below, at blue hour in <a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/Bukchon%20Hanok%20Village\" title=\"en:Bukchon Hanok Village\" class=\"extiw\">Bukchon Hanok Village</a>, <a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/Seoul\" title=\"en:Seoul\" class=\"extiw\">Seoul</a>, <a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/South%20Korea\" title=\"en:South Korea\" class=\"extiw\">South Korea</a>. <a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/Long-exposure%20photography\" title=\"en:Long-exposure photography\" class=\"extiw\">Long-exposure photography</a> (13<span typeof=\"mw:Entity\"> </span>s)",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2024-06-03 18:15:50",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:Basile_Morin\" title=\"User:Basile Morin\">Basile Morin</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "spot": "Insadong",
+    "retrievedOn": "2026-10-16",
+    "src": "./assets/destinations/insadong.webp",
+    "smallSrc": "./assets/destinations/insadong-small.webp",
+    "width": 960,
+    "height": 1280,
+    "alt": "Shops and pedestrians along Insadong-gil in Seoul",
+    "caption": "",
+    "position": "50% 55%",
+    "title": "Insadong-gil Mar 2025 05.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Insadong-gil_Mar_2025_05.jpg",
+    "author": "Epicgenius",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; cropped to fit the card when displayed.",
+    "commonsPageId": 164512635,
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Insadong-gil_Mar_2025_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Insadong-gil_Mar_2025_05.jpg/1280px-Insadong-gil_Mar_2025_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalSha1": "79d0a2830629feada0ee323c6aced1a5271bb152",
+    "originalTimestamp": "2025-05-01T17:54:28Z",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2025-05-01 17:54:28",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Insadong-gil Mar 2025 05",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Insadong|Self-published work|Files with coordinates missing SDC location of creation|March 2025 in Seoul|Photographs by Epicgenius|South Korea photographs taken on 2025-03-13",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "37.574725",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "126.983917",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Insadong-gil in Seoul, photographed in March 2025",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2025-03-13 15:42:42",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Epicgenius\" title=\"User:Epicgenius\">Epicgenius</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "spot": "Myeongdong Shopping Street",
+    "retrievedOn": "2026-10-16",
+    "src": "./assets/destinations/myeongdong.webp",
+    "smallSrc": "./assets/destinations/myeongdong-small.webp",
+    "width": 932,
+    "height": 864,
+    "alt": "Illuminated storefront signs above a street in Myeongdong at night",
+    "caption": "",
+    "position": "50% 50%",
+    "title": "Myeongdong Neon at Night, Seoul.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Myeongdong_Neon_at_Night,_Seoul.jpg",
+    "author": "Ken Eckert",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Cropped to show storefront signs and exclude foreground pedestrians; resized and converted to WebP; cropped to fit the card when displayed.",
+    "commonsPageId": 39984298,
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Myeongdong_Neon_at_Night%2C_Seoul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadedUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Myeongdong_Neon_at_Night%2C_Seoul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalSha1": "890b59647b967690a8cc747d16c51c4c7cd42099",
+    "originalTimestamp": "2015-05-05T04:22:07Z",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2015-05-05 04:22:07",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Myeongdong Neon at Night, Seoul",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Myeongdong|Self-published work|Neon signs in South Korea",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Neon in the Myeongdong district of Seoul, Korea",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2011-05",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Keneckert\" title=\"User:Keneckert\">Ken Eckert</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "spot": "N Seoul Tower",
+    "retrievedOn": "2026-10-16",
+    "src": "./assets/destinations/n-seoul-tower.webp",
+    "smallSrc": "./assets/destinations/n-seoul-tower-small.webp",
+    "width": 960,
+    "height": 717,
+    "alt": "N Seoul Tower rising over Namsan at sunset",
+    "caption": "",
+    "position": "50% 42%",
+    "title": "Namsan Tower sunset, Seoul.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Namsan_Tower_sunset,_Seoul.jpg",
+    "author": "Rtflakfizer",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized and converted to WebP; cropped to fit the card when displayed.",
+    "commonsPageId": 62795653,
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Namsan_Tower_sunset%2C_Seoul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Namsan_Tower_sunset%2C_Seoul.jpg/1280px-Namsan_Tower_sunset%2C_Seoul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalSha1": "9251728618371e1e66980525183be664e5550fe2",
+    "originalTimestamp": "2017-09-27T03:45:42Z",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2017-09-27 03:45:42",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Namsan Tower sunset, Seoul",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "N Seoul Tower|Self-published work|Images from Wiki Loves Monuments 2017 in South Korea|Images from Wiki Loves Monuments 2017|Uploaded via Campaign:wlm-kr|Images from Wiki Loves Monuments missing SDC location of creation|NoFoP-South Korea|Yellow sunsets of South Korea|Sunsets of Seoul",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "N Seoul Tower",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2010-04-13 18:39:17",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Rtflakfizer&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Rtflakfizer (page does not exist)\">Rtflakfizer</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "spot": "Namsan Cable Car",
+    "retrievedOn": "2026-10-16",
+    "src": "./assets/destinations/namsan-cable-car.webp",
+    "smallSrc": "./assets/destinations/namsan-cable-car-small.webp",
+    "width": 960,
+    "height": 794,
+    "alt": "A Namsan cable car above Seoul’s streets and buildings",
+    "caption": "",
+    "position": "50% 45%",
+    "title": "Namsan cable car in Seoul Korea.png",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Namsan_cable_car_in_Seoul_Korea.png",
+    "author": "Tim Adams",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "changes": "Resized and converted to WebP; cropped to fit the card when displayed.",
+    "commonsPageId": 36261620,
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Namsan_cable_car_in_Seoul_Korea.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Namsan_cable_car_in_Seoul_Korea.png/1280px-Namsan_cable_car_in_Seoul_Korea.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalSha1": "70a88c5446aadfc36b54383579ffc7813e3d5f4b",
+    "originalTimestamp": "2014-10-20T00:14:47Z",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2014-10-20 00:14:47",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Namsan cable car in Seoul Korea",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Myeongdong|Cableways of Namsan|Self-published work",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "An ascending Namsan Cable Car, with the Sogong-ro thoroughfare and skyscrapers of Seoul's Myeong-dong neighborhood in the background",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2014-03-03",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Tim_Adams\" title=\"User:Tim Adams\">Tim Adams</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "spot": "Hongdae Red Road",
+    "retrievedOn": "2026-10-16",
+    "src": "./assets/destinations/hongdae-red-road.webp",
+    "smallSrc": "./assets/destinations/hongdae-red-road-small.webp",
+    "width": 960,
+    "height": 640,
+    "alt": "Neon-lit shops and a lively street market in Hongdae",
+    "caption": "",
+    "position": "50% 50%",
+    "title": "Hongdae, Seoul- Part II - Hongdae2237.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hongdae,_Seoul-_Part_II_-_Hongdae2237.jpg",
+    "author": "lumoplank",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "changes": "Resized and converted to WebP; cropped to fit the card when displayed.",
+    "commonsPageId": 195958327,
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Hongdae%2C_Seoul-_Part_II_-_Hongdae2237.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Hongdae%2C_Seoul-_Part_II_-_Hongdae2237.jpg/1280px-Hongdae%2C_Seoul-_Part_II_-_Hongdae2237.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalSha1": "ca95a9658c8334159fd7ce726e33a249b1a27b47",
+    "originalTimestamp": "2026-07-21T07:38:30Z",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2026-07-21 07:38:30",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Hongdae, Seoul- Part II - Hongdae2237",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "CC-Zero|Neon signs|Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license|Hongdae|Street markets|Flickr images missing SDC copyright status|Flickr images missing SDC creator|Flickr images missing SDC inception|Flickr images missing SDC source of file|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Flickr images missing SDC published in",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "37.557920",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "126.926135",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "A street market in Hongdae lined with neon-signed shops, including a phone case kiosk and Pink's bar.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "before 16 September 2024<div style=\"display: none;\">date QS:P,+2024-09-16T00:00:00Z/7,P1326,+2024-09-16T00:00:00Z/11</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/199350666@N08/53997578267\">https://www.flickr.com/photos/199350666@N08/53997578267</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/199350666@N08\">lumoplank</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Zero, Public Domain Dedication",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "spot": "Hongdae Busking Street",
+    "retrievedOn": "2026-10-16",
+    "src": "./assets/destinations/hongdae-busking.webp",
+    "smallSrc": "./assets/destinations/hongdae-busking-small.webp",
+    "width": 960,
+    "height": 1280,
+    "alt": "A street intersection and storefronts in the Hongdae neighborhood",
+    "caption": "Hongdae neighborhood · area photo",
+    "position": "50% 50%",
+    "title": "Hongdae Street 01.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hongdae_Street_01.jpg",
+    "author": "Qhairy",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "changes": "Resized and converted to WebP; cropped to fit the card when displayed.",
+    "commonsPageId": 197216222,
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Hongdae_Street_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Hongdae_Street_01.jpg/1280px-Hongdae_Street_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalSha1": "f5b545831c79c44084a78543ef0d0ae9c03718aa",
+    "originalTimestamp": "2026-08-11T06:21:38Z",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2026-08-11 06:21:38",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Hongdae Street 01",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Self-published work|Creative Commons Attribution 4.0 missing SDC copyright license|Creative Commons Attribution missing SDC copyright status|Self-published work missing SDC copyright license|All media needing categories as of 2026|Media needing categories as of 11 August 2026",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Hongdae Street",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2026-06-20 08:35:33",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Qhairy\" title=\"User:Qhairy\">Qhairy</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "spot": "Hongdae Free Market",
+    "retrievedOn": "2026-10-16",
+    "src": "./assets/destinations/hongdae-market.webp",
+    "smallSrc": "./assets/destinations/hongdae-market-small.webp",
+    "width": 960,
+    "height": 641,
+    "alt": "Street merchants beside Hongik Children’s Park, the Hongdae Free Market area",
+    "caption": "Market area by Hongik Children’s Park",
+    "position": "50% 50%",
+    "title": "Hongdae Playground street merchants.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hongdae_Playground_street_merchants.JPG",
+    "author": "Michaela den",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; cropped to fit the card when displayed.",
+    "commonsPageId": 25007685,
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Hongdae_Playground_street_merchants.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadedUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Hongdae_Playground_street_merchants.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalSha1": "25b63f39ff0a5489feec66c870a4d480aecdd59b",
+    "originalTimestamp": "2013-03-06T14:31:33Z",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2013-03-06 14:31:33",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Hongdae Playground street merchants",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Taken with Canon EOS 400D|Hongdae|Self-published work|Shops in Mapo-gu, Seoul|Streets in Mapo-gu, Seoul",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "The back view of street merchants on Wausan-ro 21-gil at Hongdae Playground (or Hongik Children's Park) in Hongdae, Mapo-gu, Seoul in 2012",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2012-09-20 14:51:13",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Michaela_den&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Michaela den (page does not exist)\">Michaela den</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "spot": "Seongsu Yeonmujang-gil",
+    "retrievedOn": "2026-10-16",
+    "src": "./assets/destinations/yeonmujang-gil.webp",
+    "smallSrc": "./assets/destinations/yeonmujang-gil-small.webp",
+    "width": 960,
+    "height": 720,
+    "alt": "Cafés and shops along Yeonmujang-gil in Seongsu",
+    "caption": "",
+    "position": "50% 50%",
+    "title": "성수 연무장길 거리.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%84%B1%EC%88%98_%EC%97%B0%EB%AC%B4%EC%9E%A5%EA%B8%B8_%EA%B1%B0%EB%A6%AC.jpg",
+    "author": "Hyoin (WMKR)",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "changes": "Resized and converted to WebP; cropped to fit the card when displayed.",
+    "commonsPageId": 192648661,
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/%EC%84%B1%EC%88%98_%EC%97%B0%EB%AC%B4%EC%9E%A5%EA%B8%B8_%EA%B1%B0%EB%A6%AC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/%EC%84%B1%EC%88%98_%EC%97%B0%EB%AC%B4%EC%9E%A5%EA%B8%B8_%EA%B1%B0%EB%A6%AC.jpg/1280px-%EC%84%B1%EC%88%98_%EC%97%B0%EB%AC%B4%EC%9E%A5%EA%B8%B8_%EA%B1%B0%EB%A6%AC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalSha1": "d12d7b59057d057ed008a7e7f8f3a219fd7cab31",
+    "originalTimestamp": "2026-05-23T06:22:19Z",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2026-05-23 06:22:19",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "성수 연무장길 거리",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "CC-Zero|Self-published work|2026 WikiRookies Seongsu Photowalk",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "성수 연무장길 거리",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2026-05-23 13:21:24",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Hyoin_(WMKR)\" title=\"User:Hyoin (WMKR)\">Hyoin (WMKR)</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Zero, Public Domain Dedication",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "spot": "Seoul Forest",
+    "retrievedOn": "2026-10-16",
+    "src": "./assets/destinations/seoul-forest.webp",
+    "smallSrc": "./assets/destinations/seoul-forest-small.webp",
+    "width": 960,
+    "height": 720,
+    "alt": "A tree-lined walking path in Seoul Forest",
+    "caption": "",
+    "position": "50% 50%",
+    "title": "Seoulforest path01.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoulforest_path01.jpg",
+    "author": "Enigma7seven",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; cropped to fit the card when displayed.",
+    "commonsPageId": 8794358,
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Seoulforest_path01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadedUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Seoulforest_path01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalSha1": "a2a867c79350f3b18cffa81c7a7f517a90baa14c",
+    "originalTimestamp": "2009-12-20T16:44:20Z",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2009-12-20 16:44:20",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Seoulforest path01",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "GFDL|CC-BY-SA-3.0,2.5,2.0,1.0|Park benches|Seoul Forest|License migration redundant|Self-published work|Parks in South Korea in 2009",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Seoul Forest path",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2009-11-26",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Enigma7seven\" title=\"User:Enigma7seven\">Enigma7seven</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "spot": "Seongsu Yeonbang",
+    "retrievedOn": "2026-10-16",
+    "src": "./assets/destinations/seongsu-neighborhood.webp",
+    "smallSrc": "./assets/destinations/seongsu-neighborhood-small.webp",
+    "width": 960,
+    "height": 720,
+    "alt": "Street scenery in the Seongsu neighborhood; not the Seongsu Yeonbang building",
+    "caption": "Seongsu neighborhood · area photo",
+    "position": "50% 50%",
+    "title": "성수 연무장길 거리5.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%84%B1%EC%88%98_%EC%97%B0%EB%AC%B4%EC%9E%A5%EA%B8%B8_%EA%B1%B0%EB%A6%AC5.jpg",
+    "author": "Tjwlgns",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "changes": "Resized and converted to WebP; cropped to fit the card when displayed.",
+    "commonsPageId": 192814991,
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/%EC%84%B1%EC%88%98_%EC%97%B0%EB%AC%B4%EC%9E%A5%EA%B8%B8_%EA%B1%B0%EB%A6%AC5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/%EC%84%B1%EC%88%98_%EC%97%B0%EB%AC%B4%EC%9E%A5%EA%B8%B8_%EA%B1%B0%EB%A6%AC5.jpg/1280px-%EC%84%B1%EC%88%98_%EC%97%B0%EB%AC%B4%EC%9E%A5%EA%B8%B8_%EA%B1%B0%EB%A6%AC5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalSha1": "857d1e902c768c23c6083f14267184b103a62382",
+    "originalTimestamp": "2026-05-26T09:43:08Z",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2026-05-26 09:43:08",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "성수 연무장길 거리5",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Self-published work|Files with coordinates missing SDC location of creation|2026 WikiRookies Seongsu Photowalk",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "37.541242",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "127.061203",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "성수 연무장길",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2026-05-23 13:34:12",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Tjwlgns&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Tjwlgns (page does not exist)\">Tjwlgns</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "spot": "Starfield Library at COEX",
+    "retrievedOn": "2026-10-16",
+    "src": "./assets/destinations/starfield-library.webp",
+    "smallSrc": "./assets/destinations/starfield-library-small.webp",
+    "width": 960,
+    "height": 723,
+    "alt": "Tall bookshelves inside Starfield Library at COEX Mall",
+    "caption": "",
+    "position": "50% 45%",
+    "title": "Starfield Library COEX 20240218.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Starfield_Library_COEX_20240218.jpg",
+    "author": "Sean Young (@assanges)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "changes": "Resized and converted to WebP; cropped to fit the card when displayed.",
+    "commonsPageId": 163397580,
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Starfield_Library_COEX_20240218.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Starfield_Library_COEX_20240218.jpg/1280px-Starfield_Library_COEX_20240218.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalSha1": "d34c18bd16df34049bfa8d404c4a99289882a484",
+    "originalTimestamp": "2025-04-10T13:19:05Z",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2025-04-10 13:19:05",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Starfield Library COEX 20240218",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Starfield Library|Self-published work|Photos by User:Assanges taken in 2024",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "37.510181",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "127.060225",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Starfield Library in Starfield COEX Mall",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2024-02-18 12:32:17",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Assanges\" title=\"User:Assanges\">Sean Young (@assanges)</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "spot": "Lotte World Tower & Seoul Sky",
+    "retrievedOn": "2026-10-16",
+    "src": "./assets/destinations/lotte-world-tower.webp",
+    "smallSrc": "./assets/destinations/lotte-world-tower-small.webp",
+    "width": 960,
+    "height": 1507,
+    "alt": "Lotte World Tower illuminated against Seoul’s night skyline",
+    "caption": "",
+    "position": "50% 45%",
+    "title": "Seoul Skyline Night 2018.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul_Skyline_Night_2018.jpg",
+    "author": "mauveine.kim",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "changes": "Resized and converted to WebP; cropped to fit the card when displayed.",
+    "commonsPageId": 106106919,
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Seoul_Skyline_Night_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Seoul_Skyline_Night_2018.jpg/1280px-Seoul_Skyline_Night_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalSha1": "0f7eebc11a5f4a37babd43a6da7f77246365d8d5",
+    "originalTimestamp": "2021-09-23T19:53:29Z",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2021-09-23 19:53:29",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Seoul Skyline Night 2018",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "CC-Zero|Lotte World Tower|Han River (Korea)|Water reflections in South Korea|Flickr images reviewed by FlickreviewR 2|NoFoP-South Korea|Reflections in rivers|Skylines in Seoul|Night in Seoul",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Seoul Skyline Night",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2018-08-07",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"mw:ExtLink nofollow\" href=\"https://www.flickr.com/photos/161399994@N08/44531748074/\" class=\"external free\">https://www.flickr.com/photos/161399994@N08/44531748074/</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "mauveine.kim",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Zero, Public Domain Dedication",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "spot": "Seokchon Lake",
+    "retrievedOn": "2026-10-16",
+    "src": "./assets/destinations/seokchon-lake.webp",
+    "smallSrc": "./assets/destinations/seokchon-lake-small.webp",
+    "width": 960,
+    "height": 540,
+    "alt": "Cherry blossoms framing Seokchon Lake in spring",
+    "caption": "",
+    "position": "50% 50%",
+    "title": "Seokchon Lake Cherry Blossoms 2020.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seokchon_Lake_Cherry_Blossoms_2020.jpg",
+    "author": "Ox1997cow",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized and converted to WebP; cropped to fit the card when displayed.",
+    "commonsPageId": 106889879,
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Seokchon_Lake_Cherry_Blossoms_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "downloadedUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Seokchon_Lake_Cherry_Blossoms_2020.jpg/1280px-Seokchon_Lake_Cherry_Blossoms_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalSha1": "e3ba87955b3ea680cb4eec83a57397832576c496",
+    "originalTimestamp": "2021-06-22T20:48:21Z",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2021-06-22 20:48:21",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Seokchon Lake Cherry Blossoms 2020",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Taken with Samsung Galaxy S8+|Seokchon Lake|Self-published work|Uploaded with Mobile/Android|Photographs taken on 2020-04-11|April 2020 in Seoul|Parks in South Korea in 2020|Prunus in flower in Seoul",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "2020, Seokchon Lake and cherry blossoms",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "11 April 2020 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ox1997cow\" title=\"User:Ox1997cow\">Ox1997cow</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  }
+]

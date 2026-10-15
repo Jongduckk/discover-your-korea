@@ -1,0 +1,31 @@
+.spot-art{height:auto;min-height:0;aspect-ratio:16/10;isolation:isolate;background:#263348}
+.spot-art .scene,.spot-art .spot-photo{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.spot-art .spot-photo{transition:transform .4s ease}
+.spot-card:hover .spot-photo{transform:scale(1.035)}
+.spot-art>.photo-caption{position:absolute;left:0;right:0;bottom:0;padding:22px 10px 9px;font-size:12px;line-height:1.6;letter-spacing:.15px;color:#fff8e9;background:linear-gradient(transparent,#101827db);text-shadow:0 1px 2px #111827}
+.photo-credits{margin-top:14px;border-bottom:1px solid var(--line);font-size:12px;color:#b9c2d1}
+.photo-credits summary{display:flex;align-items:center;justify-content:space-between;gap:16px;min-height:44px;padding:9px 1px;cursor:pointer;list-style:none;color:#d7c8a7;letter-spacing:.4px}
+.photo-credits summary::-webkit-details-marker{display:none}
+.photo-credits summary>span{font-size:18px;color:var(--gold);transition:transform .2s}
+.photo-credits[open] summary>span{transform:rotate(45deg)}
+.photo-credits summary:focus-visible{outline:2px solid var(--gold);outline-offset:4px;border-radius:3px}
+.photo-credits-content{padding:2px 0 18px;line-height:1.8}
+.photo-credits-content>p{font-size:12px;max-width:580px;color:#a9b4c6}
+.photo-credits ul{list-style:none;padding:0;margin:15px 0 0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.photo-credits li{display:flex;flex-direction:column;gap:5px;font-size:12px;overflow-wrap:anywhere}
+.photo-credits strong{font-size:12px;font-weight:600;color:#e5d8bd}
+.photo-credits a{text-decoration:underline;text-decoration-color:#cdb27c66;text-underline-offset:3px}
+.photo-credits a:hover{color:var(--gold)}
+@media(max-width:640px){
+  .spot-card{display:block;min-height:0}
+  .spot-art{height:auto;min-height:0;aspect-ratio:16/9}
+  .spot-copy{padding:18px 18px 20px}
+  .spot-copy h3{font-size:21px;min-height:0}
+  .spot-copy p{font-size:14px;line-height:1.8}
+  .spot-art>.photo-caption{font-size:12px;padding-left:14px;padding-bottom:10px}
+  .photo-credits ul{grid-template-columns:1fr;gap:17px}
+  .photo-credits li{padding-left:12px;border-left:1px solid #cbb27c55;font-size:12px}
+  .photo-credits strong{font-size:12px}
+  .photo-credits-content>p{font-size:12px}
+}
+@media(prefers-reduced-motion:reduce){.spot-card:hover .spot-photo{transform:none}}

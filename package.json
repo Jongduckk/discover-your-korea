@@ -1,0 +1,30 @@
+{
+  "name": "discover-your-seoul",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "prebuild": "npm run prepare:notices",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "prepare:assets": "node scripts/prepare-assets.mjs",
+    "prepare:photos": "node scripts/prepare-destination-photos.mjs",
+    "prepare:notices": "node scripts/prepare-notices.mjs",
+    "test": "tsx --test tests/*.test.ts tests/*.test.tsx"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^4.4.0",
+    "jsdom": "^29.1.1",
+    "sharp": "^0.35.5",
+    "tsx": "^4.23.15",
+    "typescript": "~5.8.3",
+    "vite": "^6.3.0"
+  }
+}

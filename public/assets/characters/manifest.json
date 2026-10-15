@@ -1,0 +1,92 @@
+[
+  {
+    "name": "crying",
+    "bounds": [
+      0,
+      26,
+      428,
+      415
+    ],
+    "pixels": 115211
+  },
+  {
+    "name": "confused",
+    "bounds": [
+      418,
+      15,
+      838,
+      420
+    ],
+    "pixels": 115166
+  },
+  {
+    "name": "thinking",
+    "bounds": [
+      837,
+      28,
+      1238,
+      434
+    ],
+    "pixels": 105658
+  },
+  {
+    "name": "confident",
+    "bounds": [
+      0,
+      430,
+      409,
+      837
+    ],
+    "pixels": 106351
+  },
+  {
+    "name": "suspicious",
+    "bounds": [
+      423,
+      419,
+      841,
+      805
+    ],
+    "pixels": 91250
+  },
+  {
+    "name": "unimpressed",
+    "bounds": [
+      836,
+      418,
+      1244,
+      823
+    ],
+    "pixels": 97355
+  },
+  {
+    "name": "laughing",
+    "bounds": [
+      0,
+      831,
+      435,
+      1227
+    ],
+    "pixels": 111004
+  },
+  {
+    "name": "love",
+    "bounds": [
+      419,
+      834,
+      835,
+      1237
+    ],
+    "pixels": 107152
+  },
+  {
+    "name": "rocket",
+    "bounds": [
+      837,
+      834,
+      1247,
+      1253
+    ],
+    "pixels": 103934
+  }
+]
